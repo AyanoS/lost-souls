@@ -1,5 +1,3 @@
-Access-Control-Allow-Origin: *
-
 //floor = 0, wall = 1, door = 2, enemy = 3
 
 //spawn
