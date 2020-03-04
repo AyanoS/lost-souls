@@ -1,0 +1,78 @@
+#menu
+    {padding: 0em 0em;
+     position: fixed;
+     right: 0%;
+     top: 0%;
+     width: 100%;
+     margin-top: -0em;
+}
+body
+    {color: darkgrey;
+        background-color: black;
+        font-size: 1.5em;
+        font-family: Arial, serif;
+}
+
+.tg {text-align: center;
+border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:5px;overflow:hidden;word-break:normal;border-color:darkgrey;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-qvrk{font-size:x-large;font-family:serif !important;;border-color:#ffffff;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}
+
+.tg-k2yu
+    {display: inline-block;
+     vertical-align: middle;
+     line-height: normal;
+     display: inline-block;     
+     position: relative;    
+     z-index: 1;     
+     padding: 2em;     
+     margin: -2.25em;
+     text-decoration: none;
+     color: darkgray;
+     font-size: 1.5em;
+     font-family: Arial, serif;
+
+}
+.tg-k2yu:hover
+    {
+   color: white;
+}
+
+h1
+    {text-decoration: none;
+        text-align: center;
+     font-size: 5em;
+}
+
+h2
+    {text-decoration: none;
+        text-align: center;
+     font-size: 2em;
+
+}
+
+.base
+    {margin-left:8em;
+    margin-right:8em;
+}
+
+.image
+    {width: 100%;
+    height: 100%;
+}
+
+.italic
+	{font-style: italic;
+}
+
+.address
+    {text-align: center;
+}
+
+.link
+    {color: white;
+    text-align: center;
+    text-decoration: none;
+}
